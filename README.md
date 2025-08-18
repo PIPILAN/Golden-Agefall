@@ -23,7 +23,7 @@
 ---
 
 ## 📦 安装方法
-1. 下载 **整合包发布版**（见 [Releases](https://github.com/PIPILAN/GoldenAgefall/releases) 页面）。
+1. 下载 **整合包发布版**（见 [Releases](https://github.com/PIPILAN/Golden-Agefall/releases) 页面）。
 2. 找一个合适的位置新建一个文件夹命名为 Golden Agefall。
 3. 将压缩包内容解压到此文件夹。
 4. 双击启动 **Plain Craft Launcher** 启动器，整合包将自动安装。
@@ -50,8 +50,7 @@
 ---
 
 ## 🔗 链接
-- 🌐 [GitHub 项目主页](https://github.com/PIPILAN/GoldenAgefall)
+- 🌐 [GitHub 项目主页](https://github.com/PIPILAN/Golden-Agefall)
 - 📖 [模组翻译规范 (CFPA)](https://cfpa.site/TransRules/)
-- 🎮 [Minecraft 官网](https://www.minecraft.net/)
 
 ---
