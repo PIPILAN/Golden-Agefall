@@ -5,7 +5,7 @@
 ---
 
 ## 📖 简介
-**黄金终焉纪 (Golden Agefall)** 是一个高度定制的 **RPG + 魔幻冒险** Minecraft 整合包。
+**黄金终焉纪 (Golden Agefall)** 是一个高度定制的 **RPG + 魔幻冒险** Minecraft 整合包。  
 它融合了史诗级的战斗系统、独特的饰品与属性成长、以及充满挑战性的 Boss 战斗，为玩家带来沉浸式的冒险体验。
 
 本整合包由 [PIPILAN](https://github.com/PIPILAN) 开发与维护。
