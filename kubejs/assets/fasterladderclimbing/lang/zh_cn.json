@@ -1,0 +1,5 @@
+{
+    "fasterladderclimbing.configuration.allowQuickAscension": "快速上升",
+    "fasterladderclimbing.configuration.allowQuickDescension": "快速下降",
+    "fasterladderclimbing.configuration.speedModifier": "速度修正"
+}

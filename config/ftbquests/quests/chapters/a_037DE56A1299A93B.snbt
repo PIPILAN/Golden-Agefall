@@ -1,0 +1,84 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a_037DE56A1299A93B"
+	group: "300784685D8373AF"
+	id: "037DE56A1299A93B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "362944A2783DA1B5"
+			rewards: [{
+				id: "319AABBBEF297010"
+				item: {
+					count: 1
+					id: "tide:fishing_journal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "08B1BDD51B53FEBF"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["362944A2783DA1B5"]
+			id: "525E39671229799A"
+			rewards: [{
+				id: "626F0216AA87AC6E"
+				item: {
+					count: 1
+					id: "tide:bait"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2944576900AC71BA"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/fishing_rod)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["525E39671229799A"]
+			id: "3911CEFE5419DE89"
+			rewards: [
+				{
+					id: "370E98238958581B"
+					item: {
+						count: 1
+						id: "tide:diamond_fishing_bobber"
+					}
+					type: "item"
+				}
+				{
+					id: "694A2A8FD8531914"
+					item: {
+						count: 1
+						id: "tide:iron_fishing_hook"
+					}
+					type: "item"
+				}
+				{
+					id: "709081FAA33932A0"
+					item: {
+						count: 1
+						id: "tide:reinforced_line"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A16ECDED2F42B13"
+				item: { count: 1, id: "tide:angler_workshop" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+	]
+}

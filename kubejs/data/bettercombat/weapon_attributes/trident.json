@@ -1,0 +1,80 @@
+{
+  "attributes" : {
+    "range_bonus": 0.25,
+    "pose": "",
+    "two_handed": false,
+    "category": "trident",
+    "attacks": [
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "malfu_combat_animation:trident_rl_stab",
+        "swing_sound": {
+          "id": "bettercombat:spear_stab"
+        }
+      },
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "malfu_combat_animation:trident_rl_stabup",
+        "swing_sound": {
+          "id": "bettercombat:spear_stab"
+        }
+      },
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "malfu_combat_animation:trident_lr_stab",
+        "swing_sound": {
+          "id": "bettercombat:spear_stab"
+        }
+      },
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "malfu_combat_animation:trident_rl_stab",
+        "swing_sound": {
+          "id": "bettercombat:spear_stab"
+        }
+      },
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "malfu_combat_animation:trident_lr_stab",
+        "swing_sound": {
+          "id": "bettercombat:spear_stab"
+        }
+      },
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "malfu_combat_animation:trident_rl_stabup",
+        "swing_sound": {
+          "id": "bettercombat:spear_stab"
+        }
+      },
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "malfu_combat_animation:trident_rl_stab",
+        "swing_sound": {
+          "id": "bettercombat:spear_stab"
+        }
+      }
+    ]
+  }
+}

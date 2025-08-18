@@ -1,0 +1,10 @@
+{
+    "malilib.label.nbt_tooltip.number_color": "§6数字颜色",
+    "malilib.message.formatting_code.error": "§c错误:",
+    "malilib.message.formatting_code.warning": "§6警告:",
+    "malilib.label.nbt_tooltip.number_type_color": "§c数字类型颜色",
+    "malilib.label.nbt_tooltip.key_color": "§b键名颜色",
+    "malilib.message.formatting_code.success": "§a成功:",
+    "malilib.label.nbt_tooltip.string_color": "§a字符串颜色",
+    "malilib.message.formatting_code.info": "§f信息:"
+}

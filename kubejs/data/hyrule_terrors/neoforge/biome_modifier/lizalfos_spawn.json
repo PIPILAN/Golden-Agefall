@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#hyrule_terrors:lizalfos_spawn_in",
+  "spawners":
+    {
+      "type": "hyrule_terrors:lizalfos",
+      "weight": 3,
+      "minCount": 1,
+      "maxCount": 2
+    }
+}

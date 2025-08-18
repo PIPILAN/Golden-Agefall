@@ -1,0 +1,7 @@
+{
+ "enchantment.aggrofix.aggrobaiting": "仇引",
+ "config.aggrofix.aggrofix": "仇恨修复",
+ "gamerule.useAggroFix": "弃用仇恨修复",
+ "enchantment.aggrofix.aggronizing": "附仇",
+ "gamerule.useAggroFix.description": "开启或关闭仇恨系统"
+}

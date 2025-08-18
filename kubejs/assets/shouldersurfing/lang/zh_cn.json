@@ -1,0 +1,15 @@
+{
+    "adaptive_crosshair_use_item_properties.button": "编辑",
+    "shouldersurfing.configuration.adaptive_crosshair_use_items.button": "编辑",
+    "shouldersurfing.configuration.curios": "饰品接口(Curios API)",
+    "shouldersurfing.configuration.adaptive_crosshair_hold_items.button": "编辑",
+    "shouldersurfing.configuration.integrations.curios.adaptive_crosshair_items.tooltip": "当这些物品装备在饰品槽位时，会触发自适应模式下的动态准星。本配置支持正则表达式，饰品槽位需在表达式前用'@'符号指定。示例：'ring@angelring：.*_ring' 将匹配装备在'ring'槽位中的'angelring：diamond_ring'和'angelring：angel_ring'饰品",
+    "shouldersurfing.configuration.integrations.curios.adaptive_crosshair_item_properties.tooltip": "当物品装备在饰品槽位时，具有这些属性的物品会触发自适应模式下的动态准星。示例：'necklace@charged'(项链槽位的充能状态物品)",
+    "shouldersurfing.configuration.curios.tooltip": "饰品接口相关设置项",
+    "shouldersurfing.configuration.player.turn_player_transparent_when_aiming.tooltip": "是否在瞄准时将玩家模型设为透明。此配置选项仅在启用调整玩家透明度功能时生效。",
+    "shouldersurfing.configuration.integrations.curios.adaptive_crosshair_items": "自适应准星物品",
+    "shouldersurfing.configuration.curios.button": "编辑",
+    "adaptive_crosshair_hold_item_properties.button": "编辑",
+    "shouldersurfing.configuration.player.turn_player_transparent_when_aiming": "瞄准时使玩家模型透明化",
+    "shouldersurfing.configuration.integrations.curios.adaptive_crosshair_item_properties": "自适应准星物品属性"
+}

@@ -1,0 +1,14 @@
+{
+    "cmd.help": "TIMM模组指令列表：",
+    "cmd.help.cfg": "打开模组设置",
+    "cmd.help.nowPlaying": "显示当前播放歌曲",
+    "cmd.help.skip": "跳过当前歌曲/播放新歌曲",
+    "cmd.help.stop": "停止当前歌曲",
+    "cmd.nowPlaying.none": "当前未播放任何歌曲",
+    "cmd.stop": "已停止播放歌曲",
+    "cmd.stop.none": "没有可停止的歌曲",
+    "text.autoconfig.timm.title": "沉浸式音乐模组 - 配置",
+    "text.autoconfig.timm.option.general.minDelay": "歌曲间最小间隔时间",
+    "text.autoconfig.timm.option.general.maxDelay": "歌曲间最大间隔时间",
+    "text.autoconfig.timm.option.general.printOnSkip": "跳过时显示歌曲信息"
+}

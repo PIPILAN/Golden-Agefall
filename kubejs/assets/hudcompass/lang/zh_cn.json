@@ -1,0 +1,19 @@
+{
+    "text.hudcompass.waypoint_editor.world": "世界:%s",
+    "text.hudcompass.waypoint_editor.world_all": "世界:全部",
+    "text.hudcompass.waypoint_editor.cancel": "取消",
+    "text.hudcompass.waypoint_editor.title": "航点编辑器",
+    "text.hudcompass.waypoint_editor.header_z": "Z坐标",
+    "text.hudcompass.waypoint_editor.header_x": "X坐标",
+    "text.hudcompass.waypoint_editor.fold": "▼折叠",
+    "text.hudcompass.waypoint_editor.header_y": "Y坐标",
+    "text.hudcompass.waypoint_editor.delete": "✕删除",
+    "key.hudcompass.remove_waypoint": "移除目标航点",
+    "text.hudcompass.waypoint_editor.save": "保存",
+    "key.hudcompass.category": "Hud指南针",
+    "text.hudcompass.waypoint_editor.new_waypoint": "新航点",
+    "key.hudcompass.edit_waypoints": "航点编辑器",
+    "text.hudcompass.waypoint_editor.change_symbol": "◆符号",
+    "key.hudcompass.add_waypoint": "快速添加航点",
+    "text.hudcompass.waypoint_editor.header_label": "标签"
+}

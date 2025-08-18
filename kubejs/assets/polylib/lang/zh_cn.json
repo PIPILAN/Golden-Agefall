@@ -1,0 +1,15 @@
+{
+    "energy_bar.polylib.rf": "RF能量",
+    "fluid_tank.polylib.capacity": "容量:",
+    "rs_mode.polylib.active_low": "无红石信号时激活",
+    "fluid_tank.polylib.stored": "已存储:",
+    "energy_bar.polylib.capacity": "容量:",
+    "energy_bar.polylib.stored": "已存储:",
+    "fluid_tank.polylib.fluid_storage": "流体存储",
+    "rs_mode.polylib.never_active": "从不激活",
+    "fluid_tank.polylib.mb": "毫升",
+    "fluid_tank.polylib.contains": "包含:",
+    "rs_mode.polylib.always_active": "始终激活",
+    "energy_bar.polylib.energy_storage": "能量存储",
+    "rs_mode.polylib.active_high": "有红石信号时激活"
+}

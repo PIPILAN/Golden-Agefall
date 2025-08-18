@@ -1,0 +1,14 @@
+[{
+	"mob": "minecraft:warden",
+	"persecond": 0.03,
+	"conditions": {
+		"dimension": "minecraft:overworld",
+		"maxheight": 0,
+		"minheight": -65,
+		"maxthis": 8,
+		"and": {
+			"structure": "minecraft:ancient_city",
+			"hasstructure": true
+		}
+    }
+}]

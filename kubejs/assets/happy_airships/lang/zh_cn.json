@@ -1,0 +1,23 @@
+{
+  "advancement.happy_airships.happy_airship": "快乐飞艇",
+  "advancement.happy_airships.happy_airship.description": "为你的快乐恶魂装备螺旋桨",
+  "itemGroup.happy_airships": "快乐飞艇",
+  "enchantment.happy_airships.swiftness": "迅捷",
+  "item.happy_airships.black_harness_with_propeller": "黑色螺旋桨缰具",
+  "item.happy_airships.blue_harness_with_propeller": "蓝色螺旋桨缰具",
+  "item.happy_airships.brown_harness_with_propeller": "棕色螺旋桨缰具",
+  "item.happy_airships.cyan_harness_with_propeller": "青色螺旋桨缰具",
+  "item.happy_airships.gray_harness_with_propeller": "灰色螺旋桨缰具",
+  "item.happy_airships.green_harness_with_propeller": "绿色螺旋桨缰具",
+  "item.happy_airships.light_blue_harness_with_propeller": "淡蓝色螺旋桨缰具",
+  "item.happy_airships.light_gray_harness_with_propeller": "淡灰色螺旋桨缰具",
+  "item.happy_airships.lime_harness_with_propeller": "黄绿色螺旋桨缰具",
+  "item.happy_airships.magenta_harness_with_propeller": "品红色螺旋桨缰具",
+  "item.happy_airships.orange_harness_with_propeller": "橙色螺旋桨缰具",
+  "item.happy_airships.pink_harness_with_propeller": "粉色螺旋桨缰具",
+  "item.happy_airships.propeller": "螺旋桨",
+  "item.happy_airships.purple_harness_with_propeller": "紫色螺旋桨缰具",
+  "item.happy_airships.red_harness_with_propeller": "红色螺旋桨缰具",
+  "item.happy_airships.white_harness_with_propeller": "白色螺旋桨缰具",
+  "item.happy_airships.yellow_harness_with_propeller": "黄色螺旋桨缰具"
+}

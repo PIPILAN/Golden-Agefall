@@ -1,0 +1,60 @@
+
+
+EntityEvents.death('minecraft:warden', event => {
+    // 生成随机数，15%概率触发
+    let randomValue = Math.random()
+    // 检查是否满足15%的概率条件
+    if (randomValue < 0.15) {
+        // 获取死亡Warden的位置坐标
+        let pos = event.entity.blockPosition()
+        // 保存level引用
+        let level = event.entity.level
+        // 立即给附近玩家发送警告消息
+        level.getEntitiesWithin(event.entity.getBoundingBox().inflate(32))
+            .filter(entity => entity.isPlayer())
+            .forEach(player => {
+                player.tell('§c§l黑暗中传来了不祥的气息,某种强大的存在正在苏醒...')
+            })
+        // 播放预警音效
+        level.runCommandSilent(
+            `playsound minecraft:entity.warden.ambient hostile @a ${pos.x} ${pos.y} ${pos.z} 1.5 0.3`
+        )
+        // 设置持续的预警粒子特效 - 每0.5秒播放一次
+        let particleInterval = setInterval(() => {
+            level.runCommandSilent(
+                `particle minecraft:sculk_charge_pop ${pos.x} ${pos.y + 1} ${pos.z} 2 2 2 0.1 250 force`
+            )
+            // 添加额外的幽魂粒子增强效果
+            level.runCommandSilent(
+                `particle minecraft:soul ${pos.x} ${pos.y + 1} ${pos.z} 1 1 1 0.05 100 force`
+            )
+        }, 500) // 每500毫秒（0.5秒）执行一次
+        // 5秒延迟后生成Boss
+        setTimeout(() => {
+            // 清除持续的粒子特效
+            clearInterval(particleInterval)
+            // 在Warden死亡位置召唤Warden Boss
+            level.runCommandSilent(
+                `summon spice:warden_boss ${pos.x} ${pos.y} ${pos.z}`
+            )
+            // 给附近玩家发送Boss出现消息
+            level.getEntitiesWithin(AABB.of(pos.x - 32, pos.y - 16, pos.z - 32, pos.x + 32, pos.y + 16, pos.z + 32))
+                .filter(entity => entity.isPlayer())
+                .forEach(player => {
+                    player.tell('§4§l§n深渊坚守者已降临！')
+                })
+            // 播放Boss出现音效
+            level.runCommandSilent(
+                `playsound minecraft:entity.warden.roar hostile @a ${pos.x} ${pos.y} ${pos.z} 2 0.5`
+            )
+            // 添加Boss出现粒子特效
+            level.runCommandSilent(
+                `particle minecraft:sculk_soul ${pos.x} ${pos.y + 1} ${pos.z} 3 3 3 0.1 500 force`
+            )
+           // 可选：添加更多震撼特效
+            level.runCommandSilent(
+                `particle minecraft:explosion_emitter ${pos.x} ${pos.y} ${pos.z} 0 0 0 0 1 force`
+            )
+       }, 5000) // 5000毫秒 = 5秒延迟
+    }
+})

@@ -1,0 +1,13 @@
+{
+	id: "261AC61B811F050C"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ id: "21363B02982369BF", item: { count: 1, id: "goldenagefall:heart_of_the_colossus" } }
+		{ id: "465EF2801013B9C8", item: { count: 1, id: "goldenagefall:heart_of_the_endshade" } }
+		{ id: "5307E527763FB13F", item: { count: 1, id: "goldenagefall:heart_of_the_abyssgazer" } }
+		{ id: "1F689D1FA1153B93", item: { count: 1, id: "goldenagefall:heart_of_the_faebound" } }
+		{ id: "0993AD5C5F26272E", item: { count: 1, id: "goldenagefall:heart_of_the_cinderwraith" } }
+		{ id: "4648D7F8DA3AB890", item: { count: 1, id: "goldenagefall:heart_of_the_dragonborn" } }
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "forgeendertech.configuration.ventReachDistance": "通风覆盖距离",
+    "forgeendertech.configuration.suctionHoppers": "吸力漏斗",
+    "forgeendertech.configuration.Painting": "涂装",
+    "forgeendertech.configuration.SmokeContainers": "烟雾容器",
+    "forgeendertech.configuration.maxVentPipeLength": "最大通风管长度",
+    "forgeendertech.configuration.requiresDye": "需要染料",
+    "forgeendertech.configuration.requiresWaterBucket": "需要水桶",
+    "forgeendertech.configuration.debug": "调试",
+    "forgeendertech.configuration.maxBlocksInMultiblock": "多方块最大块数",
+    "forgeendertech.configuration.pumpedChimneyAirflow": "抽风烟囱气流"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "goldenagefall:item/thunder_war_sword_battle"
+  }
+}

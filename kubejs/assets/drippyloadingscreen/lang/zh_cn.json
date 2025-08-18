@@ -1,0 +1,19 @@
+{
+    "drippyloadingscreen.background.color.desc": "一个简单的十六进制颜色背景.",
+    "drippyloadingscreen.settings.fade_out_loading_screen": "淡出加载屏幕:%s",
+    "drippyloadingscreen.settings.wait_for_textures_in_loading.desc": "如果模组应在加载屏幕中等待纹理以防止\n重新加载资源时屏幕闪烁.\n\n如果您遇到卡顿,请禁用此功能.",
+    "drippyloadingscreen.elements.vanilla_bar": "原版式游戏加载进度条[Drippy]",
+    "drippyloadingscreen.background.color.config": "配置颜色背景",
+    "drippyloadingscreen.settings.customize_loading_screen": "自定义加载屏幕",
+    "drippyloadingscreen.elements.vanilla_bar.color": "颜色 [HEX]",
+    "drippyloadingscreen.settings.early_fade_out_elements": "早期淡出元素:%s",
+    "drippyloadingscreen.settings.allow_universal": "允许通用布局:%s",
+    "drippyloadingscreen.settings.early_fade_out_elements.desc": "如果加载屏幕元素应该在背景之前开始淡出.",
+    "drippyloadingscreen.background.color.config.invalid_color": "§x你需要先输入有效的HEX颜色!",
+    "drippyloadingscreen.settings.allow_universal.desc": "如果应用通用布局到加载屏幕上.",
+    "drippyloadingscreen.background.color": "颜色 [HEX]",
+    "drippyloadingscreen.settings.wait_for_textures_in_loading": "在加载中等待材质:%s",
+    "drippyloadingscreen.settings.fade_out_loading_screen.desc": "是否应淡出加载屏幕.",
+    "drippyloadingscreen.elements.vanilla_bar.desc": "这是一种类似原版的游戏加载进度条.仅当使用Drippy布局时才会显示实际进度.",
+    "drippyloadingscreen.background.color.config.color": "HEX颜色:"
+}

@@ -1,0 +1,5 @@
+{
+    "text.autoconfig.combat_roll.option.client.showKeybinding": "在HUD显示按键绑定",
+    "text.autoconfig.combat_roll.option.client.showWhenFull": "箭矢充满时显示",
+    "text.autoconfig.combat_roll.option.client.keybindingLabelPosition": "按键绑定标签位置"
+}

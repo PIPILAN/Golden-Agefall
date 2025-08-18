@@ -1,0 +1,20 @@
+{
+    "material.irons_jewelry.example": "示例",
+    "part.irons_jewelry.gem_rhinestone_c": "莱茵石",
+    "tooltip.irons_jewelry.bonus_crafted_header": "制作时的加成:",
+    "pattern.irons_jewelry.bane_ring": "毁灭之戒",
+    "pattern.irons_jewelry.haggler_ring": "讨价还价之戒",
+    "part.irons_jewelry.gem_rhinestone_a": "莱茵石",
+    "part.irons_jewelry.skull_bane_ring": "骷髅",
+    "part.irons_jewelry.band_bane_ring": "戒圈",
+    "pattern.irons_jewelry.haggler_ring.item": "%2$s 讨价还价之戒",
+    "part.irons_jewelry.gem_rhinestone_b": "莱茵石",
+    "part.irons_jewelry.chain_rhinestone": "锁链",
+    "part.irons_jewelry.haggler_stone": "讨价还价之石",
+    "bonus.irons_jewelry.trade_discount_bonus.description": "交易时%s件物品打折",
+    "pattern.irons_jewelry.rhinestone_amulet.item": "%1$s-%2$s-%3$s 莱茵石护符",
+    "pattern.irons_jewelry.bane_ring.item": "%1$s克星戒指",
+    "bonus.irons_jewelry.trade_discount_bonus": "交易折扣",
+    "pattern.irons_jewelry.rhinestone_amulet": "莱茵石护符",
+    "bonus.irons_jewelry.trade_discount_bonus.description.singular": "交易时%s件物品打折"
+}

@@ -1,0 +1,13 @@
+{
+ "betterstrongholds.commands.locate.stronghold": "请改用指令 /locate structure betterstrongholds:stronghold!",
+ "Use /locate structure betterstrongholds:stronghold instead!": "请改用指令 /locate structure betterstrongholds:stronghold!",
+"text.autoconfig.betterstrongholds-fabric-1_21.title": "YUNG的更好的要塞",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds": "YUNG的更好的要塞",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general": "通用设置",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip": "常规设置",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin": "启用结构破坏",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]": "允许要塞被小型面条洞轻微破坏.",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]": "注意,它们不会受到大型洞穴的影响.",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "已填充传送门框几率",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "每个末影传送门框块生成已填充末影之眼的几率."
+}

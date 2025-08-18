@@ -1,0 +1,9 @@
+{
+    "probejs.already_running": "已经有一个转储线程在运行,请稍候.",
+    "probejs.interactive": "ProbeJS交互式服务器正在监听端口%s.",
+    "probejs.decompile": "ProbeJS将在下一次转储时反编译模组源代码,当模组列表更改时也会触发反编译.",
+    "probejs.performance": "您安装了 %s 个模组!您可能希望使用 /probejs complete 来禁用部分类型以提高性能.",
+    "probejs.complete": "ProbeJS现在将转储所有复杂类型,可能会影响VSCode的性能.",
+    "probejs.no_complete": "ProbeJS现在将禁用一些类型的转储,因此您的VSCode应该运行得更快.对于缺失的类型,请使用代码片段.",
+    "probejs.no_decompile": "ProbeJS现在将不反编译模组源代码."
+}

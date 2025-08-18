@@ -1,0 +1,15 @@
+{
+    "ping-wheel.command.rate_limit.set.description": "设置ping使用的速率限制",
+    "ping-wheel.command.player_tracking.get.response": "玩家追踪功能当前状态为:%s",
+    "ping-wheel.command.rate_limit.set.response": "已将速率限制设置为 %s",
+    "ping-wheel.command.regen_time.get.description": "获取当前Ping使用次数的恢复时间",
+    "ping-wheel.command.rate_limit.get.response": "当前速率限制为:%s",
+    "ping-wheel.command.regen_time.get.response": "当前恢复时间为:%s",
+    "ping-wheel.command.rate_limit.get.description": "获取当前ping使用的速率限制",
+    "ping-wheel.command.player_tracking.set.description": "启用或禁用玩家追踪功能",
+    "ping-wheel.command.player_tracking.set.response": "玩家追踪功能现在状态为:%s",
+    "ping-wheel.command.regen_time.set.description": "设置重生ping使用的时间",
+    "ping-wheel.command.regen_time.set.response": "已将再生时间设置为 %s",
+    "ping-wheel.command.player_tracking.get.description": "检查玩家追踪当前是否启用",
+    "ping-wheel.name": "提示轮"
+}

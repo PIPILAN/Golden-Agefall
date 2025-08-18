@@ -1,0 +1,781 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "3AA941168ADB9807"
+	group: "5D42EDFAD7AD27B1"
+	id: "3AA941168ADB9807"
+	images: [
+		{
+			height: 3.0d
+			image: "goldenagefall:textures/quests/lvl50.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.5d
+			y: -12.0d
+		}
+		{
+			height: 3.0d
+			image: "goldenagefall:textures/quests/lvl100.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			height: 3.0d
+			image: "goldenagefall:textures/quests/lvl150.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 3.0d
+			image: "goldenagefall:textures/quests/lvl200.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			height: 3.0d
+			image: "goldenagefall:textures/quests/lvlxxx.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.5d
+			y: 12.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "mowziesmobs:wrought_axe"
+			}
+			id: "5DA7B6109D7AE614"
+			rewards: [{
+				count: 4
+				id: "7E5DCDF2227E7641"
+				item: {
+					count: 1
+					id: "minecraft:iron_block"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				id: "550C7C405DE96DCC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -12.0d
+		}
+		{
+			icon: {
+				id: "mowziesmobs:sol_visage"
+			}
+			id: "3A31DBEF7B53E954"
+			rewards: [{
+				id: "15E64E9A3859F9DB"
+				item: {
+					count: 1
+					id: "goldenagefall:bracelet_of_austerity"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				id: "7177205DCFBF652A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -12.0d
+		}
+		{
+			icon: {
+				id: "goldenagefall:emblem_of_evokelight"
+			}
+			id: "5CF6267D2F0B87FB"
+			rewards: [{
+				id: "764E25A209E20E0E"
+				item: {
+					count: 1
+					id: "goldenagefall:emblem_of_evokelight"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "illagerinvasion:invoker"
+				id: "176366BBD9C97CD3"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: -12.0d
+		}
+		{
+			icon: {
+				id: "hazennstuff:excalibur_fragment"
+			}
+			id: "236723C0CA4DE9E8"
+			rewards: [{
+				id: "1735F7444A7CC634"
+				item: {
+					count: 1
+					id: "goldenagefall:heart_of_the_netherblood"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				id: "3EE18FC82B48B402"
+				type: "kill"
+				value: 1L
+			}]
+			x: 21.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "irons_spellbooks:divine_soulshard"
+			}
+			id: "6FF42CFD72E42B8F"
+			rewards: [{
+				id: "1EF116F3075C0EDC"
+				item: {
+					components: {
+						"irons_spellbooks:spell_container": {
+							data: [{
+								id: "irons_spellbooks:fire_breath"
+								index: 0
+								level: 10
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+					count: 1
+					id: "irons_spellbooks:scroll"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "irons_spellbooks:fire_boss"
+				id: "21F5A09A15E094D8"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:monstrous_eye"
+			}
+			id: "2EF51B1113F00479"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "20369AF0F87C84F0"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				id: "4695718EF5609530"
+				type: "kill"
+				value: 1L
+			}]
+			x: 24.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:mech_eye"
+			}
+			id: "3EA98D333A633CC7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4789D9F57682CF55"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "20F2972A871A8147"
+				type: "kill"
+				value: 1L
+			}]
+			x: 27.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:void_eye"
+			}
+			id: "22A6190539846114"
+			rewards: [{
+				id: "5E4C9EFC16D9CAEE"
+				item: {
+					count: 1
+					id: "alshanex_familiars:evasion_curio"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				id: "7E2A91D1CE9C78C4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:desert_eye"
+			}
+			id: "78B276CD09013919"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4360985B8E377BB8"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				id: "663DDA1FE85B5074"
+				type: "kill"
+				value: 1L
+			}]
+			x: 30.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:storm_eye"
+			}
+			id: "4C2DE2AC47466808"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "116F037AF7370514"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:scylla"
+				id: "24A5C9871597E25E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:cursed_eye"
+			}
+			id: "31CE2338247D7B72"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77CE2C812B712DB5"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				id: "03F459C288A145B4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 21.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:flame_eye"
+			}
+			id: "2854CC8E652A9877"
+			rewards: [{
+				id: "70535F5B9FA768F1"
+				item: {
+					count: 1
+					id: "goldenagefall:heart_of_the_cinderwraith"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:ignis"
+				id: "0B28E9FD4DE22BCC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "cataclysm:abyss_eye"
+			}
+			id: "0AF51E38310E9F2C"
+			rewards: [{
+				id: "7E0AC4FDC9872A6E"
+				item: {
+					count: 1
+					id: "goldenagefall:heart_of_the_abyssgazer"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				id: "6D8ACB0329BD0024"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "remnant_bosses:ossukage_sword"
+			}
+			id: "65BD11C749F23C79"
+			rewards: [{
+				id: "5F81E8EEF55459FD"
+				item: {
+					count: 1
+					id: "touhou_little_maid:substitute_jizo"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "remnant_bosses:ossukage"
+				id: "46C95D6FA4042814"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "bosses_of_mass_destruction:ancient_anima"
+			}
+			id: "0C2A4631C84B214F"
+			rewards: [{
+				count: 64
+				id: "4751221A078539A0"
+				item: {
+					count: 1
+					id: "minecraft:blue_ice"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:lich"
+				id: "43D3D8550CC5A174"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -12.0d
+		}
+		{
+			icon: {
+				id: "bosses_of_mass_destruction:crystal_fruit"
+			}
+			id: "6717ED32813A3BFB"
+			rewards: [{
+				id: "1E9D10F14524B43D"
+				item: {
+					components: {
+						"irons_spellbooks:spell_container": {
+							data: [{
+								id: "codex_of_champions:missile_salvo"
+								index: 0
+								level: 5
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+					count: 1
+					id: "irons_spellbooks:scroll"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:void_blossom"
+				id: "5DD16EFD7B1025F1"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.0d
+			y: -12.0d
+		}
+		{
+			icon: {
+				id: "bosses_of_mass_destruction:obsidian_heart"
+			}
+			id: "54E87CCFF1435212"
+			rewards: [{
+				id: "2BB3D13341AB0631"
+				item: {
+					count: 1
+					id: "goldenagefall:eye_of_the_endshade"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				id: "1ACB0333881D3FAA"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "bosses_of_mass_destruction:blazing_eye"
+			}
+			id: "4E728B36B74A2483"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F1B3F44A71B2FAF"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:gauntlet"
+				id: "300A9DABE59A638C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "mowziesmobs:ice_crystal"
+			}
+			id: "31C7C645F6A48CF0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18F8E363C014DEBF"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				id: "4471C59B785B8FEE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:wither_skeleton_skull"
+			}
+			id: "6D2E70F5CF6ABE52"
+			rewards: [{
+				id: "467CC71331CBB9EC"
+				item: {
+					components: {
+						"irons_spellbooks:spell_container": {
+							data: [{
+								id: "irons_spellbooks:wither_skull"
+								index: 0
+								level: 10
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+					count: 1
+					id: "irons_spellbooks:scroll"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "06C2BB21CDA345F8"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "44FB1D95538B5CC8"
+			rewards: [
+				{
+					id: "4D89AE41048A254E"
+					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:dragon_breath"
+									index: 0
+									level: 10
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+				{
+					id: "6C4BE29AFBEF75F3"
+					item: {
+						count: 1
+						id: "minecraft:dragon_egg"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "18A3EE98BE9D6306"
+				type: "kill"
+				value: 1L
+			}]
+			x: 18.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				components: {
+					"baublesreforked:has_modifier": 1b
+					"baublesreforked:is_initialized": 1b
+					"baublesreforked:modifier_id": "mana_font"
+					"baublesreforked:modifier_uuid": "855881c1-f87e-4543-b006-628c801c49ef"
+					"irons_spellbooks:spell_container": {
+						data: [{
+							id: "darkdoppelganger:doppel_portal"
+							index: 0
+							level: 1
+							locked: 1b
+						}]
+						maxSpells: 1
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				id: "darkdoppelganger:doppelganger_ring"
+			}
+			id: "193B77DF084DF166"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "23EDD3BAE289446F"
+					table_id: 6040364538357440371L
+					type: "choice"
+				}
+				{
+					id: "7713BA27488EA08E"
+					item: {
+						count: 1
+						id: "goldenagefall:heart_of_the_endshade"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				entity: "darkdoppelganger:dark_doppelganger"
+				id: "629F8D30CFAECBDE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "fdbosses:chesed_trophy"
+			}
+			id: "2F1EFDBDD3C53DC9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "222815BDB8AFECF0"
+				table_id: 3724847919821750943L
+				type: "choice"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "fdbosses:chesed"
+				id: "4A46BF9DDAEAD0C3"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			id: "6C01A4648DA12160"
+			rewards: [{
+				count: 4
+				id: "2ECF727ECF08777E"
+				item: {
+					count: 1
+					id: "minecraft:dragon_breath"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "block_factorys_bosses:infernal_dragon"
+				id: "33A7DEE15C34D1CE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "03A2967DCC683B06"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77C4679A4811F36E"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "block_factorys_bosses:sandworm"
+				id: "6B98C72C5DDFDB9D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			id: "35D64646DED3FC9D"
+			rewards: [{
+				id: "27903349A01B1FB7"
+				item: {
+					components: {
+						"irons_spellbooks:spell_container": {
+							data: [{
+								id: "irons_spellbooks:summon_swords"
+								index: 0
+								level: 5
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+					count: 1
+					id: "irons_spellbooks:scroll"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "block_factorys_bosses:underworld_knight"
+				id: "0AFDF3831B3D6DAB"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "14FDF03EF6825B11"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70356000DB213854"
+				table_id: 3724847919821750943L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "block_factorys_bosses:yeti"
+				id: "7FD52A4D2856821C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "goldenagefall:flamefist"
+			}
+			id: "735D45AAEA59C8EB"
+			rewards: [{
+				id: "7CE8EE3FEF38108F"
+				item: {
+					components: {
+						"irons_spellbooks:spell_container": {
+							data: [{
+								id: "irons_spellbooks:firebolt"
+								index: 0
+								level: 10
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+					count: 1
+					id: "irons_spellbooks:scroll"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "livingthings:ancient_blaze"
+				id: "46FD0BFF751A9F43"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+	]
+}

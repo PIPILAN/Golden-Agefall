@@ -1,0 +1,13 @@
+{
+  "description": [
+    "## {mobName}",
+    "**\u751f\u547d\u503c\uff1a** {getHealth}",
+    "**\u62a4\u7532\u503c\uff1a** {getArmor}",
+    "**\u7c7b\u522b\uff1a** {getCategory}",
+    "**\u53ef\u9a6f\u670d\uff1a** {getTameable}",
+    "**\u51fb\u6740\u6b21\u6570\uff1a** {getTimesKilled}",
+    "**\u88ab\u51fb\u6740\u6b21\u6570\uff1a** {getTimesDiedTo}",
+    "## \u6389\u843d\u7269",
+    "{getLootDrops}"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a"
+	group: "4846787AB311CAF6"
+	icon: {
+		id: "minecraft:writable_book"
+	}
+	id: "0EAE9ACA1C579069"
+	images: [
+		{
+			height: 11.0d
+			image: "minecraft:textures/gui/sprites/container/cartography_table/map.png"
+			rotation: 0.0d
+			width: 11.0d
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			height: 5.0d
+			image: "goldenagefall:textures/quests/mainlogo1.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 0.5d
+			y: -4.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["66BDB483B46362A8"]
+			id: "40422AB9AE126607"
+			tasks: [{
+				id: "15732BACB266BE81"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["40422AB9AE126607"]
+			icon: {
+				id: "minecraft:painting"
+			}
+			id: "07117DC8A87F58F9"
+			tasks: [{
+				id: "178D0B15659BA3FF"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["40422AB9AE126607"]
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "4BB538DD053B16BF"
+			tasks: [{
+				id: "2C9BC743A3638927"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["40422AB9AE126607"]
+			icon: {
+				id: "minecraft:stone_bricks"
+			}
+			id: "63420DA46CAAC8FB"
+			tasks: [{
+				id: "285C003C4DE9F672"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["63420DA46CAAC8FB"]
+			icon: {
+				id: "minecraft:paper"
+			}
+			id: "3B7AF43D702651BE"
+			tasks: [{
+				id: "6AEA24741373A837"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["63420DA46CAAC8FB"]
+			id: "00E03FD5B573F507"
+			tasks: [{
+				id: "3A50AB20C135EAD4"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(ga:item/buildingwands)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["63420DA46CAAC8FB"]
+			icon: {
+				id: "minecraft:leather_helmet"
+			}
+			id: "463727F733AACA5E"
+			tasks: [{
+				id: "15FFA561C00131D7"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "66BDB483B46362A8"
+			tasks: [{
+				id: "67AA55348B6A41FF"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["463727F733AACA5E"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "18945B59D9B7A04B"
+			tasks: [{
+				id: "57FE1CC559AA4A43"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["63420DA46CAAC8FB"]
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+			}
+			id: "4988D0A09244A702"
+			tasks: [{
+				id: "6ACDC2A2701774EC"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["40422AB9AE126607"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "6CEAE65567656663"
+			tasks: [{
+				id: "141B6A60700994E4"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["63420DA46CAAC8FB"]
+			icon: {
+				id: "memory_of_the_past:tome_of_rebirth"
+			}
+			id: "4D36AF545C9606D2"
+			rewards: [{
+				id: "6AC4151817B8988E"
+				item: {
+					count: 1
+					id: "memory_of_the_past:tome_of_rebirth"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5839DC3315AA4E0B"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+	]
+}

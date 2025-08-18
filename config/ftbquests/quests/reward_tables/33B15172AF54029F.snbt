@@ -1,0 +1,28 @@
+{
+	id: "33B15172AF54029F"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ id: "0388A66E9FCE0F14", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "thunder_horn" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "5B0C3DC085E0B7D6", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "soulburn_mark" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "55D2F345865446A2", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "frost_seal" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "01C84F136C8787B4", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "sealed_arcana" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "13304DABA723720F", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "dragonleap_blessing" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "1F68ED201F2C4A46", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "eagle_will" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "028715276075B435", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "blood_pact" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "139B7C6854E92AA2", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "nature_blessing" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "00096DA293080710", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "bloodhunt" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "03A4D532490710ED", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "sage_legacy" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "7D62AEB1BA5FB751", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "stellar_focus" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "50CFDAC7961F43C1", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "seaspirit_blessing" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "7F6E9CAC6605B742", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "god_abandon" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "322EABB274C7AAB6", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "sinbrand" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "2E2944DC11E7F450", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "summoner_call" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "1D0D0FDFE074D69C", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "law_rhythm" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "609C1D1DEDD6A5B1", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "blood_rite" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "201A97B9733E7CE7", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "holy_grace" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "50D603D26421141C", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "voidsky_manifest" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "0E782A48F21CD8E7", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "floral_hymn" }, count: 1, id: "baublesreforked:modifier_book" } }
+		{ id: "380ADA501366A7C5", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:modifier_id": "abyss_whisper" }, count: 1, id: "baublesreforked:modifier_book" } }
+	]
+}

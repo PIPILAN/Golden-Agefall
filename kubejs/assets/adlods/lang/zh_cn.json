@@ -1,0 +1,14 @@
+{
+    "adlods.configuration.globalSpawnRateMultiplier": "全局生成速率倍增器",
+    "adlods.configuration.disabledVeins": "已禁用矿脉",
+    "adlods.configuration.alwaysOnCeiling": "总是在天花板上",
+    "adlods.configuration.globalSizeMultiplier": "全局大小倍增器",
+    "adlods.configuration.Features": "功能",
+    "adlods.configuration.disabledFeatures": "已禁用功能",
+    "adlods.configuration.Deposits": "矿床",
+    "adlods.configuration.disabledDeposits": "已禁用矿床",
+    "adlods.configuration.disableVanillaLargeVeins": "禁用普通大型矿脉",
+    "adlods.configuration.enabled": "已启用",
+    "adlods.configuration.Indicators": "指示器",
+    "adlods.configuration.Veins": "矿脉"
+}

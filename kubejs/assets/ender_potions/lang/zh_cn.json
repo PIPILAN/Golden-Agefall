@@ -1,0 +1,31 @@
+{
+  "text.config.ender_potions.title": "末影药水配置",
+  "text.config.ender_potions.option.enablePotionOfWormhole": "启用虫洞药水",
+  "text.config.ender_potions.option.enablePotionOfTeleportation": "启用传送药水",
+  "text.config.ender_potions.option.teleportRadius": "随机传送半径",
+  "text.config.ender_potions.option.teleportMaxHeight": "传送最大高度",
+
+  "screen.ender_potions.wormholePlayerSelection.title": "选择要传送的玩家",
+  "gui.ender_potions.tp_accepted": "%s 接受了你的传送请求。",
+  "gui.ender_potions.tp_target_died": "就在接受传送请求的那一刻，%s 不知为何死了……",
+  "gui.ender_potions.tp_requester_died": "%s 在你接受传送请求之前就死了。",
+  "gui.ender_potions.tp_denied": "%s 拒绝了你的传送请求。",
+  "gui.ender_potions.tp_incoming": "%s 已被传送至你的位置。",
+  "gui.ender_potions.request_sent": "已向 %s 发送传送请求。",
+  "gui.ender_potions.request_prompt_top": "%s 想要传送到你的位置。",
+  "gui.ender_potions.request_prompt_center": "按下 %s 接受请求。",
+  "gui.ender_potions.request_prompt_bottom": "%ss 后自动拒绝。",
+
+  "item.ender_potions.potion_of_teleportation": "传送药水",
+  "item.ender_potions.potion_of_teleportation.effect.empty": "传送药水",
+  "item.ender_potions.potion_of_teleportation.effect.water": "传送药水",
+  "item.ender_potions.potion_of_teleportation.tooltip": "10000格内随机传送",
+
+  "item.ender_potions.potion_of_wormhole": "虫洞药水",
+  "item.ender_potions.potion_of_wormhole.effect.empty": "虫洞药水",
+  "item.ender_potions.potion_of_wormhole.effect.water": "虫洞药水",
+  "item.ender_potions.potion_of_wormhole.tooltip": "传送至玩家",
+
+  "category.ender_potions.keybindings": "末影药水",
+  "key.ender_potions.accept_request": "接受传送请求"
+}

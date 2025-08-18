@@ -1,0 +1,123 @@
+["Global Settings"]
+	enable = true
+
+["Attribute 1"]
+	enable = true
+	display_name = "§4❤️ §f生命值 §f| §4"
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.max_health"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 2"]
+	enable = true
+	display_name = "§b🛡️ §f护甲值 §f| §3"
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.armor"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 3"]
+	enable = true
+	display_name = "§c🗡️ §f攻击力 §f| §c"
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.attack_damage"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 4"]
+	enable = true
+	display_name = "§e⚔️ §f攻击速度 §f| §e"
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.attack_speed"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 5"]
+	enable = true
+	display_name = "§8🏹 §f远程伤害% §f| §8"
+	attribute_namespace = "apothic_attributes"
+	attribute_name = "arrow_damage"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 100.0
+
+["Attribute 6"]
+	enable = true
+	display_name = "§a🏃 §f移动速度% §f| §a"
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.movement_speed"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1000.0
+
+["Attribute 7"]
+	enable = true
+	display_name = "§d🩸 §f生命汲取% §f| §d"
+	attribute_namespace = "apothic_attributes"
+	attribute_name = "life_steal"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 100.0
+
+["Attribute 8"]
+	enable = true
+	display_name = "§e🔮 §f法力值 §f| §b"
+	attribute_namespace = "irons_spellbooks"
+	attribute_name = "max_mana"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 9"]
+	enable = true
+	display_name = "§a✴️ §f法力强度% §f| §b"
+	attribute_namespace = "irons_spellbooks"
+	attribute_name = "spell_power"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 100.0
+
+["Attribute 10"]
+	enable = true
+	display_name = "§d🌿 §f法力恢复 §f| §c"
+	attribute_namespace = "irons_spellbooks"
+	attribute_name = "mana_regen"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 11"]
+	enable = false
+	display_name = "§f生命值："
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.max_health"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 12"]
+	enable = false
+	display_name = "§f生命值："
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.max_health"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 13"]
+	enable = false
+	display_name = "§f生命值："
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.max_health"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 14"]
+	enable = false
+	display_name = "§f生命值："
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.max_health"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+
+["Attribute 15"]
+	enable = false
+	display_name = "§9💪 §f护甲韧性 §f| §9"
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.armor_toughness"
+	#changes how to the attribute value displays when you hover (value * modifer)
+	display_modifer = 1.0
+

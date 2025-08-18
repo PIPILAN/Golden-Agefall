@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.talk_balloons.option.balloonsHeightOffset": "气泡高度偏移",
+  "text.autoconfig.talk_balloons.option.distanceBetweenBalloons": "气泡间距",
+  "text.autoconfig.talk_balloons.option.maxBalloons": "最大气泡数量",
+  "text.autoconfig.talk_balloons.option.minBalloonWidth": "最小气泡宽度",
+  "text.autoconfig.talk_balloons.option.maxBalloonWidth": "最大气泡宽度",
+  "text.autoconfig.talk_balloons.option.balloonAge": "气泡持续时间",
+  "text.autoconfig.talk_balloons.option.textColor": "文字颜色",
+  "text.autoconfig.talk_balloons.option.balloonTint": "气泡色调",
+  "text.autoconfig.talk_balloons.option.balloonStyle": "气泡样式",
+  "text.autoconfig.talk_balloons.option.showOwnBalloon": "显示自己的气泡",
+  "text.autoconfig.talk_balloons.option.onlyDisplayBalloons": "仅显示气泡",
+  "text.autoconfig.talk_balloons.option.onlyDisplayBalloons.tooltip": "仅显示聊天气泡，不显示自己的聊天消息。",
+  "text.autoconfig.talk_balloons.option.balloonPadding": "气泡边距"
+}

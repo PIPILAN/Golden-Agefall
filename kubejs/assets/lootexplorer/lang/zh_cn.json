@@ -1,0 +1,8 @@
+{
+    "category.lootexplorer": "战利品探索器",
+    "key.preview_loot_table": "预览战利品表",
+    "key.copy_loot_table": "复制物品描述",
+    "item_group.loot_group": "战利品表",
+    "item_group.container_group": "容器战利品表",
+    "item_group.brushable_group": "可刷新的战利品表"
+}

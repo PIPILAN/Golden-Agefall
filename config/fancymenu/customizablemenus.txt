@@ -1,0 +1,20 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
+}
+
+top.theillusivec4.curios.client.gui.CuriosScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
+}
+

@@ -1,0 +1,9 @@
+{
+	id: "6CA0E7F6A1A63456"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "76CEC60523FB3F2F", item: { components: { "baublesreforked:has_modifier": 1b, "baublesreforked:is_initialized": 1b, "baublesreforked:modifier_id": "bloodhunt", "baublesreforked:modifier_uuid": "42621913-7227-4c8d-b786-16885733cea6" }, count: 1, id: "goldenagefall:belt_of_the_culinary_avatar_feast_aspect" } }
+		{ id: "01CE2F5F1225D7CC", item: { count: 1, id: "goldenagefall:belt_of_the_culinary_avatar_famine_aspect" } }
+	]
+}

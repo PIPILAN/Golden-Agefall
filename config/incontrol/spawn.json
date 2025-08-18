@@ -1,0 +1,22 @@
+[
+  {
+    "mob": ["remnant_bosses:skeleton_minions","remnant_bosses:rat","mowziesmobs:grottol","hyrule_terrors:keese","golemoverhaul:slime_golem"],
+    "structure": "minecraft:ancient_city",
+    "result": "deny"
+  },
+  {
+    "mob": ["remnant_bosses:skeleton_minions","remnant_bosses:rat","mowziesmobs:grottol","hyrule_terrors:keese","golemoverhaul:slime_golem"],
+    "dimension": "minecraft:the_nether",
+    "result": "deny"
+  },
+  {
+    "mob": ["remnant_bosses:skeleton_minions","remnant_bosses:rat","mowziesmobs:grottol","hyrule_terrors:keese","golemoverhaul:slime_golem"],
+    "dimension": "minecraft:the_end",
+    "result": "deny"
+  },
+  {
+    "mob": ["remnant_bosses:skeleton_minions","remnant_bosses:rat","choccos_mobs:shrimp"],
+    "dimension": "crystal_chronicles:mockup_netherlike",
+    "result": "deny"
+  }
+]

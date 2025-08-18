@@ -1,0 +1,2 @@
+["Custom Dimensions Config"]
+	dimensions_settings = ["[min]0[minEnd][max]50[maxEnd]minecraft:overworld", "[min]50[minEnd][max]100[maxEnd]minecraft:the_nether", "[min]80[minEnd][max]120[maxEnd]minecraft:the_end"]

@@ -1,0 +1,6 @@
+{
+    "gui.lionfishapi.optifine.message": "Optifine在不同模组之间的兼容性非常差!",
+    "gui.lionfishapi.optifine.sodiumsuggestions": "改用优化模组 Sodium",
+    "gui.lionfishapi.optifine.oculussuggestions": "可以尝试使用Shader Mod Oculus代替",
+    "gui.lionfishapi.optifine.title": "停止使用Optifine"
+}

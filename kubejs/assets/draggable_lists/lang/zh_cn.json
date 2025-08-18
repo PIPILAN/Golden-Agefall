@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.draggable_lists.title": "可拖动",
+    "text.autoconfig.draggable_lists.option.disableServerArrows": "禁用服务器箭头",
+    "text.autoconfig.draggable_lists.option.disableLevelArrows": "禁用等级箭头",
+    "text.autoconfig.draggable_lists.option.disableDatapackArrows": "禁用数据包箭头",
+    "text.autoconfig.draggable_lists.option.disableResourcePackArrows": "禁用资源包箭头"
+}

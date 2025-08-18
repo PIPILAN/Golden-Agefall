@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "show_tooltip": true,
+  "items_list": [
+    "[item]irons_spellbooks:arcane_essence[itemEnd][attribute]8[attributeEnd][level]200[levelEnd]"
+  ]
+}

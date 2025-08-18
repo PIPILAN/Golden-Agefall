@@ -1,0 +1,9 @@
+{
+    "config.tes.inWorldHud.entityNamespace": "世界中的 HUD 实体命名空间",
+    "tslatentitystatus.midnightconfig.inWorldHudEntityNamespaceComment": "世界中的实体状态 HUD 是否应在实体名称下渲染其模组 ID",
+    "tslatentitystatus.midnightconfig.enum.BarRenderType.BAR_ICONS": "条",
+    "tslatentitystatus.midnightconfig.inWorldHudBossesEnabledComment": "世界中的实体状态 HUD 是否应渲染实体是否为首领(它们通常有自己的首领条)",
+    "config.tes.inWorldHud.bossesEnabled": "启用世界中的首领",
+    "tslatentitystatus.midnightconfig.hudEntityNamespaceComment": "TES HUD 是否应在实体名称下渲染其模组 ID",
+    "config.tes.hud.entityNamespace": "HUD 实体命名空间"
+}

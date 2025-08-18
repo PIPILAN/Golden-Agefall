@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "spawners": {
+    "type": "remnant_bosses:skeleton_minions",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

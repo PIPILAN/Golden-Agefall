@@ -1,0 +1,5 @@
+{
+    "patchouli.gui.lexicon.visualize_letter": "可视化",
+    "patchouli.networking.reload_contents.failed": "重载内容 %S 失败",
+    "patchouli.gui.lexicon.sad": ":((难过的表情)"
+}

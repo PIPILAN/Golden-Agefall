@@ -1,0 +1,14 @@
+type = user_variables
+
+variable {
+  name = ga_structure
+  value = alshanex_familiars:graveyard
+  reset_on_launch = false
+}
+
+variable {
+  name = {"placeholder":"ga_structure"}
+  value = alshanex_familiars:graveyard
+  reset_on_launch = false
+}
+

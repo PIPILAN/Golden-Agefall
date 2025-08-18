@@ -1,0 +1,19 @@
+{
+    "text.autoconfig.tide.option.worldgen.disableEndOases.@Tooltip": "开启此选项以禁用末地绿洲特征的生成",
+    "profile.info.location.trial_chamber": "试炼密室",
+    "item.tide.torn_note.variant.stars_over_ocean": "海上星空",
+    "journal.content.structure": "这些鱼喜欢有屋顶的环境,常常在世界各地的结构和纪念碑水域中游荡.",
+    "item.tide.torn_note": "撕毁的便条",
+    "text.tide.rod_tooltip.netherite_bonus": "可以在岩浆中钓鱼",
+    "item.tide.torn_note.variant.desert_well": "沙漠井",
+    "text.tide.rod_tooltip.diamond_bonus": "额外经验",
+    "journal.title.structure": "结构鱼",
+    "item.tide.torn_note.variant.lucky": "非常幸运",
+    "text.tide.rod_tooltip.crystal_bonus": "鱼上钩时播放声音",
+    "profile.info.location.aether": "灵气层",
+    "profile.info.location.monument": "海洋纪念碑",
+    "item.tide.torn_note.variant.the_end": "末地",
+    "text.autoconfig.tide.option.worldgen.disableEndOases": "禁用末地绿洲",
+    "text.tide.rod_tooltip.gold_bonus": "额外幸运",
+    "item.tide.torn_note.variant.empty": "空的"
+}

@@ -1,0 +1,10 @@
+{
+    "angrymobs.configuration.useAttributes": "使用属性",
+    "angrymobs.configuration.angryAnimals.tooltip": "启用时会使所有原版动物在你伤害它们时反击",
+    "angrymobs.configuration.useAttributes.tooltip": "启用时会使近战目标将生物的攻击伤害和击退值叠加到指定数值上",
+    "angrymobs.configuration.aggressiveAnimals": "攻击性动物",
+    "angrymobs.configuration.angryAnimals": "愤怒的动物",
+    "angrymobs.configuration.aggressiveAnimals.tooltip": "启用时会使所有原版动物一见到你就攻击",
+    "angrymobs.configuration.title": "愤怒生物配置",
+    "angrymobs.configuration.Common": "通用设置"
+}

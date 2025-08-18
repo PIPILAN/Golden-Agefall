@@ -1,0 +1,102 @@
+["General Settings"]
+	init_val_starting_level = 1.0
+
+["Attribute 1"]
+	display_name = "生命值："
+	cmd_to_exc = ["/attribute @p generic.max_health base set [param(1.0)]"]
+	on_level_event = ["/effect give @p minecraft:instant_health 2 3"]
+	tip_to_display = "§7代表你的整体耐久力。§7更高的生命值意味着你在战斗中能存活更久。"
+	init_val_attribute_one = 20.0
+	max_level = 150.0
+	base_value_per_point = 2.0
+	lock = false
+
+["Attribute 2"]
+	display_name = "护甲值："
+	cmd_to_exc = ["/attribute @p generic.armor base set [param(1)]"]
+	on_level_event = [" "]
+	tip_to_display = "§7减少你受到的敌人攻击的伤害，+2/加点"
+	init_val_attribute_two = 0.0
+	max_level = 60.0
+	base_value_per_point = 2.0
+	lock = false
+
+["Attribute 3"]
+	display_name = "攻击伤害："
+	cmd_to_exc = ["/attribute @p generic.attack_damage base set [param(1.0)]"]
+	on_level_event = [" "]
+	tip_to_display = "§7完全蓄力攻击造成的基础物理伤害，+0.5/加点"
+	init_val_attribute_three = 1.0
+	max_level = 50.0
+	base_value_per_point = 0.5
+	lock = false
+
+["Attribute 4"]
+	display_name = "攻击速度："
+	cmd_to_exc = ["/attribute @p generic.attack_speed base set [param(1.0)]"]
+	on_level_event = [" "]
+	tip_to_display = "§7你每秒能发动完全蓄力攻击的次数，+0.1/加点"
+	init_val_attribute_forth = 4.0
+	max_level = 6.0
+	base_value_per_point = 0.1
+	lock = false
+
+["Attribute 5"]
+	display_name = "远程伤害："
+	cmd_to_exc = ["/attribute @p apothic_attributes:arrow_damage base set [param(0.01)]"]
+	on_level_event = [" "]
+	tip_to_display = "§7远程物理攻击的伤害系数（包括投掷三叉戟），+10%/加点"
+	init_val_attribute_fifth = 100.0
+	max_level = 600.0
+	base_value_per_point = 10.0
+	lock = false
+
+["Attribute 6"]
+	display_name = "移动速度："
+	cmd_to_exc = ["/attribute @p generic.movement_speed base set [param(0.001)]"]
+	on_level_event = [" "]
+	tip_to_display = "§7行走时的移动速度，+5%/加点"
+	init_val_attribute_sixth = 100.0
+	max_level = 200.0
+	base_value_per_point = 5.0
+	lock = false
+
+["Attribute 7"]
+	display_name = "生命汲取："
+	cmd_to_exc = ["/attribute @p apothic_attributes:life_steal base set [param(0.01)]"]
+	on_level_event = [" "]
+	tip_to_display = "§7可以将你造成的伤害转化为生命值，+1%/加点"
+	init_val_attribute_seventh = 0.0
+	max_level = 15.0
+	base_value_per_point = 1.0
+	lock = false
+
+["Attribute 8"]
+	display_name = "法力上限："
+	cmd_to_exc = ["/attribute @p irons_spellbooks:max_mana base set [param(1)]"]
+	on_level_event = [" "]
+	tip_to_display = "§7决定你用于施法的魔力值上限，+50/加点"
+	init_val_attribute_eight = 100.0
+	max_level = 1000.0
+	base_value_per_point = 50.0
+	lock = false
+
+["Attribute 9"]
+	"display_name " = "法术强度："
+	cmd_to_exc = ["/attribute @p irons_spellbooks:spell_power base set [param(0.01)]"]
+	on_level_event = [" "]
+	"tip_to_display " = "§7能百分比增加施法的强度，+5%/加点"
+	init_val_attribute_nine = 100.0
+	max_level = 400.0
+	base_value_per_point = 5.0
+	lock = false
+
+["Attribute 10"]
+	"display_name " = "法力恢复："
+	cmd_to_exc = ["/attribute @p irons_spellbooks:mana_regen base set [param(0.01)]"]
+	on_level_event = [" "]
+	"tip_to_display " = "§7能增加法力恢复的速度，+5%/加点"
+	init_val_attribute_ten = 100.0
+	max_level = 200.0
+	base_value_per_point = 5.0
+	lock = false

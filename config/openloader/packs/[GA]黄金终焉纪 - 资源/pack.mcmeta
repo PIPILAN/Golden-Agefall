@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 22,
+        "description": "§6Golden Agefall §fmultilingual file\n§6黄金终焉纪 §f资源文件",
+        "supported_formats": {
+            "min_inclusive": 1,
+            "max_inclusive": 100
+        }
+    }
+}

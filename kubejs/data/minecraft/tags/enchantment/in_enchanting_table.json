@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "remove": [
+    {
+      "id": "aue:unbreakable",
+      "required": false
+    }
+  ]
+}

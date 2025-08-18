@@ -1,0 +1,16 @@
+#Higher levels of Baiting will work all lower levels
+inclusiveTiers = true
+#The amount of aggro that aggrobait will apply
+# Default: 5
+# Range: > 0
+aggroLevel = 5
+#Whether bait level scales with enchantment
+scaleLevel = true
+#Cooldown for using aggrobait
+# Default: 60
+# Range: > 0
+baitCooldown = 60
+#The effective range of aggrobait
+# Default: 64
+# Range: > 0
+baitRange = 64

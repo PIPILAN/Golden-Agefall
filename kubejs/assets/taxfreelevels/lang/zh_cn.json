@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.taxfreelevels.option.removeAnvilLimit": "移除铁砧限制",
+    "text.autoconfig.taxfreelevels.title": "免税等级",
+    "text.autoconfig.taxfreelevels.option.levelBase": "等级基础",
+    "text.autoconfig.taxfreelevels.option.removeAnvilLimit.@Tooltip": "移除铁砧的40级成本限制和\n相应的“太贵了!“消息.",
+    "text.autoconfig.taxfreelevels.option.levelBase.@Tooltip": "开始降低成本的玩家等级.\n基础越低,税收减免越高.\n\n0表示取消所有税收.\n如果不想改变早期游戏成本,30是一个合理的基础.\n\n请注意,对于附魔台,基础等级\n永远不会低于台子的等级要求."
+}

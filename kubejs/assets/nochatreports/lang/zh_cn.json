@@ -1,0 +1,8 @@
+{
+    "algorithm.nochatreports.caesar.name": "凯撒密码",
+    "key.nochatreports.cmd": "Cmd键",
+    "algorithm.nochatreports.aes_ecb_base64.name": "AES/ECB+Base64R加密",
+    "algorithm.nochatreports.aes_cfb8_base64.name": "AES/CFB8+Base64R加密",
+    "configuration.NoChatReports.config": "禁止聊天报告",
+    "key.nochatreports.ctrl": "Ctrl键"
+}
