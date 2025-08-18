@@ -13,6 +13,7 @@ defaultconfigs/*
 downloads/*
 fancymenu_data/*
 kiwipacks/*
+kubejs/assets/goldenagefall/textures
 kubejs/config/probe-settings.json
 libraries/*
 local/*
