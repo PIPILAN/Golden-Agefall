@@ -28,8 +28,6 @@ xaero/*
 XaeroWaypoints_*/*
 
 # 主文件
-!CustomSkinLoader/CustomSkinLoader.json
-!defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt
 authlib-injector.log
 command_history.txt
 emi.json
@@ -40,6 +38,8 @@ servers.dat
 servers.dat_old
 usercache.json
 usernamecache.json
+
+
 
 
 # 配置文件
@@ -53,6 +53,8 @@ config/nbtedit.toml
 config/xray-client.toml
 
 # 其他
+!CustomSkinLoader/CustomSkinLoader.json
+!defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt
 !shaderpacks/ComplementaryUnbound光影精调.txt
 
 # KubeJS
