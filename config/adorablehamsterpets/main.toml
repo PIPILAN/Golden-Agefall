@@ -282,6 +282,12 @@ shoulderCreeperDetectionRadius = 16.0
 enableShoulderDiamondDetection = true
 # How close you need to be before the squeak says \"bling.\"
 shoulderDiamondDetectionRadius = 10.0
+# Choose what action dismounts the hamster. 'SNEAK_KEY' uses your sneak key, obviously. 'CUSTOM_KEYBIND' uses a separate key you must set in Controls > Key Binds.
+dismountTriggerType = "SNEAK_KEY"
+# Choose whether a single press or a quick double‑tap dismounts the hamster.
+dismountPressType = "SINGLE_PRESS"
+# Max time between sneak key presses to count as a double-tap. (20 ticks = 1 second)
+doubleTapDelayTicks = 10
 # The base throw speed of your furry projectile.
 hamsterThrowVelocity = 1.5
 # The throw speed of your furry projectile when under the influence of Steamed Green Beans. Goes from 'yeet' to 'yote'.

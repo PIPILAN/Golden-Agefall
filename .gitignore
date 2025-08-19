@@ -4,6 +4,7 @@
 .vscode/*
 assets/*
 backups/*
+crash-reports/*
 CustomSkinLoader/*
 data/*
 datapacks/*
